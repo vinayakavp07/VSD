@@ -87,3 +87,34 @@ installing GTkWave
 ![WhatsApp Image 2024-02-20 at 4 48 03 PM](https://github.com/vinayakavp07/VSD/assets/137672762/517f5222-4afd-4984-bee1-695fa5e2c492)
 
 </details>
+
+<details>
+    <summary> TASK 2 </summary>
+Johnson Counter Block Diagram
+
+![blockdiagram](https://github.com/vinayakavp07/VSD/assets/137672762/7b6be065-9da2-424a-b0b6-dd2dea049277)
+
+
+   
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
