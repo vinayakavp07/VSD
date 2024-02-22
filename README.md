@@ -94,8 +94,10 @@ Johnson Counter Block Diagram
 
 ![blockdiagram](https://github.com/vinayakavp07/VSD/assets/137672762/7b6be065-9da2-424a-b0b6-dd2dea049277)
 
+Input and Output Waveforms
 
-   
+![Input Output Waveform](https://github.com/vinayakavp07/VSD/assets/137672762/7022a7e8-296a-4559-b6fa-d050a593ea72)
+
 </details>
 
 
