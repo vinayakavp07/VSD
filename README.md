@@ -103,12 +103,19 @@ Input and Output Waveforms
 
 <details>
  <summary> TASK 3 </summary>
+   
 ![Screenshot from 2024-02-26 15-14-47](https://github.com/vinayakavp07/VSD/assets/137672762/70b895ae-7a52-47a8-ac83-6e1194993165)
+
 ![Screenshot from 2024-02-26 15-15-37](https://github.com/vinayakavp07/VSD/assets/137672762/f894855b-8ac8-43eb-a5ad-384a0da98422)
+
 ![Screenshot from 2024-02-26 15-15-58](https://github.com/vinayakavp07/VSD/assets/137672762/c3ac6554-2fd5-4237-b6bd-486f4636194c)
+
 ![Screenshot from 2024-02-26 15-16-31](https://github.com/vinayakavp07/VSD/assets/137672762/0a5593bf-c9cb-4e6d-80a4-ba21980dc688)
+
 ![Screenshot from 2024-02-26 15-16-58](https://github.com/vinayakavp07/VSD/assets/137672762/79ded4f9-7194-48ce-acac-f96f021ec06d)
+
 ![Screenshot from 2024-02-26 15-17-10](https://github.com/vinayakavp07/VSD/assets/137672762/e4f4a2b0-20bc-420b-8c17-e2a0f1ec7c75)
+
 ![Screenshot from 2024-02-26 15-18-17](https://github.com/vinayakavp07/VSD/assets/137672762/bc4a64c7-ea31-4ba1-8438-bc1bfcbb0680)
 
 
