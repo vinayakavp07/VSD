@@ -119,7 +119,6 @@ Input and Output Waveforms
 ![Screenshot from 2024-02-26 15-18-17](https://github.com/vinayakavp07/VSD/assets/137672762/bc4a64c7-ea31-4ba1-8438-bc1bfcbb0680)
 
 
-
  </details>
 
 
