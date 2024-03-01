@@ -89,7 +89,11 @@ installing GTkWave
 </details>
 
 <details>
-    <summary> TASK 2 </summary>
+
+ ### The second online meet was held on 20th of Feb 2024 @6PM
+    
+<summary> TASK 2 </summary>
+
 Johnson Counter Block Diagram
 
 ![blockdiagram](https://github.com/vinayakavp07/VSD/assets/137672762/7b6be065-9da2-424a-b0b6-dd2dea049277)
@@ -102,7 +106,10 @@ Input and Output Waveforms
 
 
 <details>
- <summary> TASK 3 </summary>
+
+### The third online meet was held on 22th of Feb 2024 @6PM
+
+<summary> TASK 3 </summary>
    
 ![Screenshot from 2024-02-26 15-14-47](https://github.com/vinayakavp07/VSD/assets/137672762/70b895ae-7a52-47a8-ac83-6e1194993165)
 
@@ -122,7 +129,10 @@ Input and Output Waveforms
  </details>
 
 <details>
-    <summary> TASK 4 </summary>
+
+ ### The fourth online meet was held on 27th of Feb 2024 @6PM
+    
+<summary> TASK 4 </summary>
 
 yosys
 
