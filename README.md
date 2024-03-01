@@ -88,9 +88,9 @@ installing GTkWave
 
 </details>
 
-<details>
+### The second online meet was held on 20th of Feb 2024 @6PM
 
- ### The second online meet was held on 20th of Feb 2024 @6PM
+<details>
     
 <summary> TASK 2 </summary>
 
@@ -105,9 +105,9 @@ Input and Output Waveforms
 </details>
 
 
-<details>
-
 ### The third online meet was held on 22th of Feb 2024 @6PM
+
+<details>
 
 <summary> TASK 3 </summary>
    
@@ -126,12 +126,12 @@ Input and Output Waveforms
 ![Screenshot from 2024-02-26 15-18-17](https://github.com/vinayakavp07/VSD/assets/137672762/bc4a64c7-ea31-4ba1-8438-bc1bfcbb0680)
 
 
- </details>
+</details>
+
+### The fourth online meet was held on 27th of Feb 2024 @6PM
 
 <details>
-
- ### The fourth online meet was held on 27th of Feb 2024 @6PM
-    
+   
 <summary> TASK 4 </summary>
 
 yosys
