@@ -121,7 +121,32 @@ Input and Output Waveforms
 
  </details>
 
+<details>
+    <summary> TASK 4 </summary>
 
+yosys
+
+![Screenshot from 2024-03-01 15-08-07](https://github.com/vinayakavp07/VSD/assets/137672762/2fc57542-c7bf-465c-849f-c9d4aef43fc3)
+
+![Screenshot from 2024-03-01 15-09-03](https://github.com/vinayakavp07/VSD/assets/137672762/025179e1-10f8-4637-a037-4a9028735c5b)
+
+![Screenshot from 2024-03-01 15-10-12](https://github.com/vinayakavp07/VSD/assets/137672762/46fe698f-1828-45cb-9a7f-7305652a7235)
+
+![Screenshot from 2024-03-01 15-07-04](https://github.com/vinayakavp07/VSD/assets/137672762/3d670489-e733-4b02-8c44-2f1fc762762d)
+
+![Screenshot from 2024-03-01 15-10-45](https://github.com/vinayakavp07/VSD/assets/137672762/6dbe5b97-906d-4a43-a1c9-3ebd3db914c4)
+
+![Screenshot from 2024-03-01 15-11-00](https://github.com/vinayakavp07/VSD/assets/137672762/d9194c71-d1fd-4281-a8a2-7e4370c371cf)
+
+![Screenshot from 2024-03-01 15-18-52](https://github.com/vinayakavp07/VSD/assets/137672762/8a983ce9-3231-40ec-a160-780988a63107)
+
+![Screenshot from 2024-03-01 15-19-34](https://github.com/vinayakavp07/VSD/assets/137672762/ddcdb075-fe7c-4795-b41a-b7f616a7f747)
+
+![Screenshot from 2024-03-01 15-18-21](https://github.com/vinayakavp07/VSD/assets/137672762/f8a9d874-9e4b-4b94-957d-e4f1372630e2)
+
+
+<details>
+    
 
 
 
