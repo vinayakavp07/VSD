@@ -156,7 +156,25 @@ yosys
 
 
 <details>
-    
+
+### The Fifth task was given on 1st of March 2024
+
+<details>
+
+<summary> TASK 5 </summary>
+
+Design file after git clone
+
+Checking GTKwave for the design
+
+![Screenshot from 2024-03-07 14-17-06](https://github.com/vinayakavp07/VSD/assets/137672762/ce588bd4-faf2-4db6-92f9-adfb8ef9882b)
+
+![Screenshot from 2024-03-07 14-16-04](https://github.com/vinayakavp07/VSD/assets/137672762/305b58c2-2c71-4a78-9297-d067e71eb0a8)
+
+
+<details>
+
+
 
 
 
