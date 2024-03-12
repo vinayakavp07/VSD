@@ -60,7 +60,9 @@ cd yosys
 
 
 sudo apt install make
+
 ![WhatsApp Image 2024-02-20 at 4 47 42 PM](https://github.com/vinayakavp07/VSD/assets/137672762/4e285ff0-cb1c-4b6f-9cdf-3b60484d8632)
+
 sudo apt-get install build-essential clang bison flex \libreadline-dev gawk tcl-dev libffi-dev git \ graphviz xdot pkg-config python3 libboost-system-dev\libboost-python-dev libboost-filesystem-dev zlib1g-dev
 
 make config-gcc
@@ -77,6 +79,7 @@ installing iVerilog
 sudo apt update
 
 sudo apt-get install iverilog
+
 ![WhatsApp Image 2024-02-20 at 4 47 58 PM](https://github.com/vinayakavp07/VSD/assets/137672762/d19a9c02-97b7-4362-b346-27aebe8a9df1)
 
 ### 3.GTkWave
@@ -84,7 +87,9 @@ installing GTkWave
 
  sudo apt-get install gtkwave 
  
+ 
 ![WhatsApp Image 2024-02-20 at 4 48 03 PM](https://github.com/vinayakavp07/VSD/assets/137672762/517f5222-4afd-4984-bee1-695fa5e2c492)
+
 
 </details>
 
@@ -96,11 +101,15 @@ installing GTkWave
 
 Johnson Counter Block Diagram
 
+
 ![blockdiagram](https://github.com/vinayakavp07/VSD/assets/137672762/7b6be065-9da2-424a-b0b6-dd2dea049277)
+
 
 Input and Output Waveforms
 
+
 ![Input Output Waveform](https://github.com/vinayakavp07/VSD/assets/137672762/7022a7e8-296a-4559-b6fa-d050a593ea72)
+
 
 </details>
 
@@ -113,15 +122,21 @@ Input and Output Waveforms
    
 ![Screenshot from 2024-02-26 15-14-47](https://github.com/vinayakavp07/VSD/assets/137672762/70b895ae-7a52-47a8-ac83-6e1194993165)
 
+
 ![Screenshot from 2024-02-26 15-15-37](https://github.com/vinayakavp07/VSD/assets/137672762/f894855b-8ac8-43eb-a5ad-384a0da98422)
+
 
 ![Screenshot from 2024-02-26 15-15-58](https://github.com/vinayakavp07/VSD/assets/137672762/c3ac6554-2fd5-4237-b6bd-486f4636194c)
 
+
 ![Screenshot from 2024-02-26 15-16-31](https://github.com/vinayakavp07/VSD/assets/137672762/0a5593bf-c9cb-4e6d-80a4-ba21980dc688)
+
 
 ![Screenshot from 2024-02-26 15-16-58](https://github.com/vinayakavp07/VSD/assets/137672762/79ded4f9-7194-48ce-acac-f96f021ec06d)
 
+
 ![Screenshot from 2024-02-26 15-17-10](https://github.com/vinayakavp07/VSD/assets/137672762/e4f4a2b0-20bc-420b-8c17-e2a0f1ec7c75)
+
 
 ![Screenshot from 2024-02-26 15-18-17](https://github.com/vinayakavp07/VSD/assets/137672762/bc4a64c7-ea31-4ba1-8438-bc1bfcbb0680)
 
@@ -138,19 +153,36 @@ yosys
 
 ![Screenshot from 2024-03-01 15-08-07](https://github.com/vinayakavp07/VSD/assets/137672762/2fc57542-c7bf-465c-849f-c9d4aef43fc3)
 
+
+
 ![Screenshot from 2024-03-01 15-09-03](https://github.com/vinayakavp07/VSD/assets/137672762/025179e1-10f8-4637-a037-4a9028735c5b)
+
+
 
 ![Screenshot from 2024-03-01 15-10-12](https://github.com/vinayakavp07/VSD/assets/137672762/46fe698f-1828-45cb-9a7f-7305652a7235)
 
+
+
 ![Screenshot from 2024-03-01 15-07-04](https://github.com/vinayakavp07/VSD/assets/137672762/3d670489-e733-4b02-8c44-2f1fc762762d)
+
+
 
 ![Screenshot from 2024-03-01 15-10-45](https://github.com/vinayakavp07/VSD/assets/137672762/6dbe5b97-906d-4a43-a1c9-3ebd3db914c4)
 
+
+
 ![Screenshot from 2024-03-01 15-11-00](https://github.com/vinayakavp07/VSD/assets/137672762/d9194c71-d1fd-4281-a8a2-7e4370c371cf)
+
+
+
 
 ![Screenshot from 2024-03-01 15-18-52](https://github.com/vinayakavp07/VSD/assets/137672762/8a983ce9-3231-40ec-a160-780988a63107)
 
+
+
 ![Screenshot from 2024-03-01 15-19-34](https://github.com/vinayakavp07/VSD/assets/137672762/ddcdb075-fe7c-4795-b41a-b7f616a7f747)
+
+
 
 ![Screenshot from 2024-03-01 15-18-21](https://github.com/vinayakavp07/VSD/assets/137672762/f8a9d874-9e4b-4b94-957d-e4f1372630e2)
 
@@ -169,7 +201,38 @@ Checking GTKwave for the design
 
 ![Screenshot from 2024-03-07 14-17-06](https://github.com/vinayakavp07/VSD/assets/137672762/ce588bd4-faf2-4db6-92f9-adfb8ef9882b)
 
+
+
 ![Screenshot from 2024-03-07 14-16-04](https://github.com/vinayakavp07/VSD/assets/137672762/305b58c2-2c71-4a78-9297-d067e71eb0a8)
+
+
+
+![Screenshot from 2024-03-07 14-55-22](https://github.com/vinayakavp07/VSD/assets/137672762/c838b8d2-8fd5-4f8e-a728-68f0dd347408)
+
+
+
+![Screenshot from 2024-03-07 14-57-16](https://github.com/vinayakavp07/VSD/assets/137672762/5e951fd6-2a36-45d8-9a32-0c58781b2406)
+
+
+
+![Screenshot from 2024-03-07 15-03-31](https://github.com/vinayakavp07/VSD/assets/137672762/e3355de6-cb84-45c9-a4e9-8105261f7282)
+
+
+
+![Screenshot from 2024-03-07 15-04-17](https://github.com/vinayakavp07/VSD/assets/137672762/7e5eb7d7-1ef5-464d-930d-949c880891f6)
+
+
+
+![Screenshot from 2024-03-07 15-04-58](https://github.com/vinayakavp07/VSD/assets/137672762/057a26bf-4384-4396-a3b6-cbdc47096f9c)
+
+
+
+![Screenshot from 2024-03-12 10-10-18](https://github.com/vinayakavp07/VSD/assets/137672762/2e229edc-93a1-4e7a-8baf-ff32555a836e)
+
+
+
+![Screenshot from 2024-03-12 10-33-55](https://github.com/vinayakavp07/VSD/assets/137672762/48a97492-3210-45cf-bc44-de5e5e0e9238)
+
 
 
 </details>
