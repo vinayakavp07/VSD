@@ -155,7 +155,7 @@ yosys
 ![Screenshot from 2024-03-01 15-18-21](https://github.com/vinayakavp07/VSD/assets/137672762/f8a9d874-9e4b-4b94-957d-e4f1372630e2)
 
 
-<details>
+</details>
 
 ### The Fifth task was given on 1st of March 2024
 
@@ -172,7 +172,7 @@ Checking GTKwave for the design
 ![Screenshot from 2024-03-07 14-16-04](https://github.com/vinayakavp07/VSD/assets/137672762/305b58c2-2c71-4a78-9297-d067e71eb0a8)
 
 
-<details>
+</details>
 
 
 
