@@ -242,6 +242,10 @@ Checking GTKwave for the design
 ![Screenshot from 2024-03-12 10-19-00](https://github.com/vinayakavp07/VSD/assets/137672762/5661db9a-3ae6-4a03-8c43-138ffeabdee9)
 
 
+
+![Screenshot from 2024-03-07 14-16-04](https://github.com/vinayakavp07/VSD/assets/137672762/4516c17b-10d8-486e-bfbb-b00a2be554c2)
+
+
 </details>
 
 
